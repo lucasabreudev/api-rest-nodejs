@@ -42,7 +42,7 @@ node_modules/
 jspm_packages/
 
 # Temporary
-tmp/app.db
+db/app.db
 
 # TypeScript v1 declaration files
 typings/
