@@ -43,7 +43,7 @@ jspm_packages/
 
 # Temporary
 db/app.db
-
+db/test.db
 # TypeScript v1 declaration files
 typings/
 
